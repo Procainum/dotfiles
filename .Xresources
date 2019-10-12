@@ -1,32 +1,19 @@
+!XTerm*faceName: ProFont for Powerline
+!XTerm*renderFont: true
+!XTerm*faceSize: 20
 
+URxvt*font: xft:Terminus:size=14 
+!URxvt*boldFont:  -xos4-terminus-bold-*-*-*-20-*-*-*-*-*-iso8859-15,xft:terminus:bold:pixelsize:12
+!URxvt*italicFont:  xft:Bitstream Vera Sans Mono:italic:autohint=true:pixelsize=12
+!URxvt*boldItalicFont:  xft:Bitstream Vera Sans Mono:bold:italic:autohint=true:pixelsize=12
 
-*background:#222222
-*foreground:#c0b18b
+URxvt*letterSpace: -1
+URxvt*lineSpace: -1
+URxvt*scrollBar: false
+URxvt*transparent: false
+URxvt*vorderLess: true
 
-*color0:    #4A3637
-*color1:    #d17b49
-*color2:    #7b8748
-*color3:    #af865a
-*color4:    #535C5C
-*color5:    #775759
-*color6:    #6d715e
-*color7:    #c0b18b
-
-*color8:    #4A3637
-*color9:    #d17b49
-*color10:   #7b8748
-*color11:   #af865a
-*color12:   #535C5C
-*color13:   #775759
-*color14:   #6d715e
-*color15:   #c0b18b
-
-!XTerm*faceName: lemon:pixelsize=10
-
-
-
-XTerm*font: -*-lemon-*-*-*-*-*-*-*-*-*-*-*-*
-XTerm*boldFont: -*-lemon-*-*-*-*-*-*-*-*-*-*-*-*
-XTerm*italicFont: -*-lemon-*-*-*-*-*-*-*-*-*-*-*-*
-XTerm*bolditalicFont: -*-lemon-*-*-*-*-*-*-*-*-*-*-*-*
-
+URxvt*boldFont:
+URxvt*italicFont:
+URxvt*bolditalicFont:
+URxvt*internalBorder: 10
